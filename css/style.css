@@ -19,6 +19,7 @@ body {
 .button {
   text-decoration: none;
   display: inline-block;
+  border: none;
 }
 .button-link {
   color: #111238;
